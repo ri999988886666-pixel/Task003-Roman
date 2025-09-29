@@ -1,2 +1,2 @@
-# Your recently pushed branches:
-add-skills-section
+# ts
+Консольное приложение для вывода метрик членов команды
