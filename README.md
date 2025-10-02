@@ -22,5 +22,5 @@
 - GitHub
 
 ## Как запустить проект
-1. Склонируйте репозиторий: `git clone [https://github.com/ri999988886666-pixel/my-first-project]`
+1. Склонируйте репозиторий: `git clone [https://github.com/ri999988886666-pixel/Task003-Roman]`
 2. Откройте index.html в браузере
